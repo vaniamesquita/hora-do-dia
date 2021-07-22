@@ -42,3 +42,39 @@ footer {
 
   border-radius: 50%;
 }
+
+@media (max-width: 550px) {
+  section {
+    width: 90%;
+  }
+
+  #msg {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 30px;
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+  }
+}
+
+@media (max-width: 330px) {
+  #imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 30px;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+  }
+}
