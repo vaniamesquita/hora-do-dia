@@ -9,13 +9,13 @@ Projeto prático para o estudo e treino de Javascript
 
 Esse é um site que retorna a hora atual, e que funciona da seguinte forma: utilizando javascript, o site verifica a hora atual e retorna com uma foto personalizada, alterando também o background do site.
 
-#### Acesse o site completo: <a href="https://vaniamesquita.me/hora-do-dia/" target="_blank">vaniamesquita.me/hora-do-dia</a> 
+#### Acesse o site completo: <a href="https://hora-dia.netlify.app" target="_blank">https://hora-dia.netlify.app</a> 
 
 ---
 
 ## Layout
 
-Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/hora-do-dia/" target="_blank">aqui</a>
+Você pode acessar o projeto clicando <a href="https://hora-dia.netlify.app" target="_blank">aqui</a>
 
 <table align="center">
    <tr>
